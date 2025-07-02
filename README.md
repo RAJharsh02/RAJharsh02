@@ -1,11 +1,11 @@
-<-- 🚀 Galactic Welcome Banner -->
+<!-- 🚀 Galactic Welcome Banner -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Harsh Raj | AI Engineer & Web Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/RAJharsh02/assets/main/banner-space.gif" alt="Harsh Raj | AI Engineer & Web Builder" width="100%" />
 </p>
 
-<-- 🧠 Typing Animation -->
+<!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="./assets/typing.gif" alt="Typing Animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/RAJharsh02/assets/main/typing.gif" alt="Typing Animation" width="80%" />
 </p>
 
 ---
