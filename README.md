@@ -12,7 +12,7 @@
 
 ## 🎯 Mission Log: `harshraj@github`
 
-``bash
+
 > Welcome! Initializing Neural Build Sequence...
 ✅ Booting ML Stack 🧠 ... OK
 ✅ Activating Full-Stack Web Interface 🌐 ... OK
