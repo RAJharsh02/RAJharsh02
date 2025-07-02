@@ -55,7 +55,7 @@ I’m **Harsh Raj**, an AI engineer and full-stack web developer passionate abou
 ## 📊 GitHub Power Stats
 
 <p align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAJharsh02&show_icons=true&theme=radical&hide_border=true" />  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAJharsh02&show_icons=true&theme=radical&hide_border=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJharsh02&theme=radical&hide_border=true" />  
 </p>
 
