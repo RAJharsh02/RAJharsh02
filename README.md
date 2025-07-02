@@ -1,22 +1,24 @@
-<!-- 🚀 Galactic Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=🚀%20Harsh%20Raj%20%7C%20AI%20Engineer%20%26%20Web%20Builder&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Crafting%20Machines%20That%20Think%20%7C%20Deploying%20Webs%20That%20Live&descAlignY=55&descSize=18" />
-</div>
-
+<!-- 🚀 Galactic Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=👨‍💻+Engineer+by+Logic,+Artist+by+Design;🧠+ML+%26+DL+is+my+Playground;🌐+Web+Solutions+from+Frontend+to+Backend;⚡+Automation+and+ETL+Flows?+Say+No+More" />
+  <img src="./assets/banner.gif" alt="Harsh Raj | AI Engineer & Web Builder" width="100%" />
+</p>
+
+<!-- 🧠 Typing Animation -->
+<p align="center">
+  <img src="./assets/typing.gif" alt="Typing Animation" width="80%" />
 </p>
 
 ---
 
 ## 🎯 Mission Log: `harshraj@github`
 
-``bash
-Welcome! Initializing Neural Build Sequence...
+```bash
+> Welcome! Initializing Neural Build Sequence...
 ✅ Booting ML Stack 🧠 ... OK
 ✅ Activating Full-Stack Web Interface 🌐 ... OK
 ✅ Loading Open Source Spirit ❤️ ... OK
-🚀 Launch Complete! Let’s create.
+🚀 Launch Complete! Let’s build something legendary.
+
 ## 👨‍💻 About Me
 
 I’m **Harsh Raj** — a code artisan, AI architect, and full-stack web builder.  
