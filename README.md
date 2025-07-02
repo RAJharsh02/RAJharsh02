@@ -1,9 +1,9 @@
-<!- 🚀 Galactic Welcome Banner -->
+<-- 🚀 Galactic Welcome Banner -->
 <p align="center">
   <img src="./assets/banner.gif" alt="Harsh Raj | AI Engineer & Web Builder" width="100%" />
 </p>
 
-<!- 🧠 Typing Animation -->
+<-- 🧠 Typing Animation -->
 <p align="center">
   <img src="./assets/typing.gif" alt="Typing Animation" width="80%" />
 </p>
